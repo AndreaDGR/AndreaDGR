@@ -12,3 +12,15 @@ I'm a junior developer looking forward to discover the great world of technology
 I will post here my future projects.
 
 Game on!! ✨
+
+
+🌟 Portfolio
+Bienvenidos a mi portfolio de proyectos. Aquí encontraréis algunos de los trabajos que he realizado mientras aprendía y practicaba programación orientada a objetos y desarrollo de aplicaciones.
+
+Proyectos destacados
+📒 Agenda de Contactos
+
+Descripción: Aplicación de consola para gestionar contactos, con búsqueda, listado y guardado en archivo.
+Tecnologías: Java, Git, manejo de archivos
+Estado: ✅ Completado
+Repositorio: [Ver aquí](https://github.com/AndreaDGR/Agenda_Personal.git)
