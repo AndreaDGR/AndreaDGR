@@ -24,6 +24,6 @@ Bienvenidos a mi portfolio de proyectos. Aquí encontraréis algunos de los trab
 
 Descripción: Aplicación de consola para gestionar contactos.  
 Funcionalidades: Agregar contactos, Listar contactos, Buscar contactos, Crear o cargar archivos con contactos.  
-Tecnologías usadas: Java, Git, manejo de archivos.
+Tecnologías usadas: Java, Git, manejo de archivos.  
 Estado: ✅ Completado  
 Repositorio: [Ver aquí](https://github.com/AndreaDGR/Agenda_Personal.git)
