@@ -9,7 +9,7 @@ I'm a junior developer looking forward to discover the great world of technology
 🤝 Great at team work           
 🔍 Always open to new ideas  
 
-I will post here my future projects.
+I will post here my future projects so you can see my progress.
 
 Game on!! ✨
 
