@@ -27,3 +27,12 @@ Funcionalidades: Agregar contactos, Listar contactos, Buscar contactos, Crear o 
 Tecnologías usadas: Java, Git, manejo de archivos.  
 Estado: ✅ Completado  
 Repositorio: [Ver aquí](https://github.com/AndreaDGR/Agenda_Personal.git)
+
+
+🎮 Juego del Número Secreto
+
+Descripción: Juego de adivinanza de un número aleatorio de 6 cifras.
+Funcionalidades: 
+Tecnologías usadas: Java, Git,
+Estado: 🕙 En proceso
+Repositorio: [Ver aquí](git@github.com:AndreaDGR/Juego_NumeroSecreto.git)
