@@ -35,4 +35,4 @@ Descripción: Juego de adivinanza de un número aleatorio de 6 cifras.
 Funcionalidades:   
 Tecnologías usadas: Java, Git,  
 Estado: 🕙 En proceso  
-Repositorio: [Ver aquí](git@github.com:AndreaDGR/Juego_NumeroSecreto.git)  
+Repositorio: [Ver aquí](https://github.com/AndreaDGR/Juego_NumeroSecreto.git)  
