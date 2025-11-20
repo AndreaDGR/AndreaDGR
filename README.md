@@ -36,3 +36,13 @@ Funcionalidades:
 Tecnologías usadas: Java, Git,  
 Estado: 🕙 En proceso  
 Repositorio: [Ver aquí](https://github.com/AndreaDGR/Juego_NumeroSecreto.git)  
+
+
+🕙 Reloj Digital
+
+Descripción: Reloj digital en tiempo real con cambio de modo de luz oscura y clara.    
+Funcionalidades: Reloj en tiempo real para poner en práctica primeros conocimientos de JavaScript.    
+Tecnologías usadas: HTML, CSS, JavaScript, Git    
+Estado: ✅ Completado   
+Repositorio: [Ver aquí](https://github.com/AndreaDGR/Reloj_Digital.git)  
+
