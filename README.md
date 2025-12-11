@@ -13,6 +13,21 @@ I will post here my future projects so you can see my progress.
 
 Game on!! ✨
 
+## ¡Hola! 👋
+
+¡Soy Andrea y este es mi perfil! 😄
+
+¡¡Soy desarrolladora junior con ganas de descubrir el gran universo de la programación y la informática!! 
+
+🌱 Actualmente terminando los estudios de Desarrollo de Aplicaciones Web  
+🔥 Soy perfeccionista y metódica         
+🤝 Trabajo bien en equipo           
+🔍 Siempre estoy abierta a nuevas ideas  
+
+Iré publicando aquí mis proyectos para compartir mi progreso.
+
+¡¡A por todas!! ✨
+
 
 # 🌟 Portfolio
 
